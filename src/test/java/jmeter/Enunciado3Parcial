@@ -1,0 +1,4 @@
+2) 25% Jmeter > utilizando la aplicacion todo.ly realizar el test automatizado de
+performance para: Crear un usuario > Get Token, usar el token para actualizar el usuario,
+Delete Token y usar el token deleted para tratar de actualizar nuevamente el usuario (el
+usuario no debería de actualizarse) (Todo.ly)

@@ -1,0 +1,5 @@
+3) 20% WebUI > utilizando la aplicacion todo.ly realizar el test automatizado para verificar
+que no se puede crear una cuenta con mismo email / user / password
+steps
+- crear una cuenta, verificar que puede iniciar sesión > realizar el logout > tratar de
+crear nuevamente la misma cuenta > verificar que no puede crear la cuenta
